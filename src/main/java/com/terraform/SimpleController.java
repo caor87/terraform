@@ -37,6 +37,7 @@ public class SimpleController {
             bigString.append(availChars.charAt(randomIndex));
         }
 
+        
         return bigString.toString();
     }
 }
